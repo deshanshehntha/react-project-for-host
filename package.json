@@ -1,8 +1,6 @@
 {
   "name": "now-ui-dashboard-react",
   "version": "1.4.0",
-  "homepage": "./",
-  "private": true,
   "dependencies": {
     "@ag-grid-community/core": "^25.3.0",
     "@ag-grid-community/react": "^25.3.0",
